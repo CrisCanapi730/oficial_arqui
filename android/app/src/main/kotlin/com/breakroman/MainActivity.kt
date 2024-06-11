@@ -1,4 +1,4 @@
-package com.example.news_test
+package com.breakroman;
 
 import io.flutter.embedding.android.FlutterActivity
 
